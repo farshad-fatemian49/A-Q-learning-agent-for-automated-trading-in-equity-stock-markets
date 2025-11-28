@@ -75,7 +75,9 @@ $$
 {\pi}_*(s) = \arg\max_{a} Q_*(s, a) 
 $$
 
-where the optimal policy \(\pi^*\) selects the action that maximizes the optimal Q-value at each state.
+where the optimal policy $\(\pi^*\)$ selects the action that maximizes the optimal Q-value at each state.
+
+## Reinforcement Learning:
 
 
 
